@@ -1,0 +1,99 @@
+header{
+	background: #195052d9 url(../images/adventure.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: overlay;
+	background-attachment: fixed;
+}
+.banner-content{
+	padding: 250px 0;
+    color: #fff;
+}
+.navbar-brand{}
+.navbar-brand h1{
+    color: #fff;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+.navbar-brand h1 span{display: block;font-weight: 200;font-size: 25px;}
+.bg-light {
+    background: #0000003c!important;
+    
+}
+.navbar-nav .nav-item a {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.banner-content h3{
+    font-size: 30px;
+    font-family: lato;
+    font-weight: 300;
+}
+.banner-content h1{}
+.banner-content a{
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+}
+.banner-content span{
+    width: 59%;
+   
+}
+
+.quote-section{ background: ##f4f5f9}
+.quote-section{
+  
+    background-color: #75757585;
+    background-blend-mode: darken;
+}
+.quote-section .quote img{filter: invert(0.9);
+
+width: 159px;}
+.quote h2{
+    color: #FFF;
+    font-size: 36px;
+    font-weight: 300;
+    font-family: 'Economica', sans-serif;
+}
+.quote p{
+    color: #defff4;
+    font-size: 18px;
+}
+.quote-section .quote{
+    margin: 26px;
+    padding: 70px 0;
+}
+ /****   Event Section Code *** */
+.events-section{
+}
+.events-section .heading{
+	margin-bottom: 40px;
+}
+/* ***   Event Section Code *** */
+ 
+
+
+/*Explore section*/
+.explore{
+	background: #195052d9 url(../images/istock.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: overlay;
+	background-attachment: fixed;
+
+}
+.explorer{
+	padding: 250px 0;
+}
+.explorer a {
+    color: #fff;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-weight: 400;
+}
+/*Explore section*/
